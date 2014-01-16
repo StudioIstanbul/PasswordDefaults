@@ -7,7 +7,6 @@
 //
 
 #import <Cocoa/Cocoa.h>
-#import "PasswordUserDefaults.h"
 
 @interface PasswordUserDefaultsController : NSUserDefaultsController {
 }
